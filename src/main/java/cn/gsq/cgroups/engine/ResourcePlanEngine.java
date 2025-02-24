@@ -10,8 +10,7 @@ import java.util.List;
  * Class : cn.gsq.cgroups.rpc.CgroupEngine
  *
  * @author : xyy
- * @date : 2024-11-05 17:40
- * @note : It's not technology, it's art !
+ * @since : 2024-11-05 17:40
  **/
 public interface ResourcePlanEngine {
 

@@ -13,8 +13,7 @@ import java.util.List;
  * Class : cn.gsq.cgroups.entity.ResourcePlanEntity
  *
  * @author : xyy
- * @date : 2024-12-09 14:46
- * @note : It's not technology, it's art !
+ * @since : 2024-12-09 14:46
  **/
 @Getter
 @Setter

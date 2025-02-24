@@ -11,8 +11,7 @@ import lombok.experimental.Accessors;
  * Class : cn.gsq.cgroups.entity.ResourceConfig
  *
  * @author : xyy
- * @date : 2024-12-09 10:58
- * @note : It's not technology, it's art !
+ * @since : 2024-12-09 10:58
  **/
 @Getter
 @Setter

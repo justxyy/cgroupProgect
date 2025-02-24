@@ -7,8 +7,7 @@ import org.quartz.SchedulerException;
  * Class : cn.gsq.cgroups.quartz.StaticResourceScheduler
  *
  * @author : xyy
- * @date : 2024-12-09 11:33
- * @note : It's not technology, it's art !
+ * @since : 2024-12-09 11:33
  **/
 public interface StaticResourceScheduler {
 

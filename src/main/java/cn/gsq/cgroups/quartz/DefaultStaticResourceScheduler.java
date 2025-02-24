@@ -9,8 +9,7 @@ import org.quartz.impl.StdSchedulerFactory;
  * Class : cn.gsq.cgroups.quartz.DefaultStaticResourceScheduler
  *
  * @author : xyy
- * @date : 2024-12-09 11:36
- * @note : It's not technology, it's art !
+ * @since : 2024-12-09 11:36
  **/
 @Slf4j
 public class DefaultStaticResourceScheduler implements StaticResourceScheduler{

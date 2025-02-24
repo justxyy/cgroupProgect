@@ -10,8 +10,7 @@ import lombok.experimental.Accessors;
  * Class : cn.gsq.sdp.core.serve.operation.rpc.Position
  *
  * @author : gsq
- * @date : 2021-04-28 10:59
- * @note : It's not technology, it's art !
+ * @since : 2021-04-28 10:59
  **/
 @Setter
 @Getter

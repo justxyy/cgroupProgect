@@ -18,8 +18,7 @@ import java.util.List;
  * Class : cn.gsq.cgroups.quartz.ResourcePlan
  *
  * @author : xyy
- * @date : 2024-12-09 10:55
- * @note : It's not technology, it's art !
+ * @since : 2024-12-09 10:55
  **/
 @Getter
 @Setter

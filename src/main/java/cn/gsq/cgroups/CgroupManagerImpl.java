@@ -24,8 +24,7 @@ import java.util.Map;
  * Class : cn.gsq.cgroups.CgroupManagerImpl
  *
  * @author : xyy
- * @date : 2024-11-05 13:50
- * @note : It's not technology, it's art !
+ * @since : 2024-11-05 13:50
  **/
 @Slf4j
 public class CgroupManagerImpl implements CgroupsManager{

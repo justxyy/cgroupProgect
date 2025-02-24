@@ -8,48 +8,31 @@ import cn.gsq.cgroups.entity.ResourcePlanEntity;
  * Class : cn.gsq.cgroups.CgroupsManager
  *
  * @author : xyy
- * @date : 2024-11-05 09:54
- * @note : It's not technology, it's art !
+ * @since : 2024-11-05 09:54
  **/
 public interface CgroupsManager {
 
     /**
-     * @Description : 添加资源配置计划
-     * @Param :
-     * @Return :
-     * @Author : xyy
-     * @Date : 2024/12/9
-     * @note : An art cell !
+     *  添加资源配置计划
+     * @author : xyy
      **/
     void createResourcePlan(ResourcePlanEntity plan);
 
     /**
-     * @Description : 修改资源配置计划
-     * @Param :
-     * @Return :
-     * @Author : xyy
-     * @Date : 2024/12/9
-     * @note : An art cell !
+     * 修改资源配置计划
+     * @author : xyy
      **/
     void modifyResourcePlan(ResourcePlanEntity plan);
 
     /**
-     * @Description : 删除资源配置计划
-     * @Param :
-     * @Return :
-     * @Author : xyy
-     * @Date : 2024/12/9
-     * @note : An art cell !
+     * 删除资源配置计划
+     * @author : xyy
      **/
     void delResourcePlan(String planId);
 
     /**
-     * @Description : 根据id获取资源配置计划
-     * @Param :
-     * @Return :
-     * @Author : xyy
-     * @Date : 2024/12/11
-     * @note : An art cell !
+     * 根据id获取资源配置计划
+     * @author : xyy
      **/
     ResourcePlanEntity getResourcePlanById(String id);
 
@@ -57,7 +40,5 @@ public interface CgroupsManager {
     void setCgroup(String serveName, double cpuQuota,double cpuShare,double memLimit,boolean interrupt);
 
     void unsetCgroup(String serveName);
-
-
 
 }

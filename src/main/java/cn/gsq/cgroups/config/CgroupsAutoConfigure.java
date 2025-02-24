@@ -13,8 +13,7 @@ import org.springframework.context.annotation.Configuration;
  * Class : cn.gsq.cgroups.config.CgroupsAutoConfigure
  *
  * @author : xyy
- * @date : 2024-11-05 09:55
- * @note : It's not technology, it's art !
+ * @since : 2024-11-05 09:55
  **/
 @Configuration
 public class CgroupsAutoConfigure {
