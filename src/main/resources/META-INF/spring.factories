@@ -1,2 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-cn.gsq.cgroups.config.CgroupsAutoConfigure
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#cn.gsq.cgroups.config.CgroupsAutoConfigure
